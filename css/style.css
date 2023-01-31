@@ -1,0 +1,26 @@
+
+/* RESET */
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+/* start header */
+.header{
+    padding: 10px 0 10px 20px;
+}
+#logo{
+    height: 50px;
+    vertical-align: middle;
+}
+
+.title{
+    display: inline-block;
+    vertical-align: middle;
+}
+/* end header */
