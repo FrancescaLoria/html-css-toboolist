@@ -24,3 +24,16 @@ body{
     vertical-align: middle;
 }
 /* end header */
+
+main{
+    background-color:blue; 
+    padding: 20px 0 5px 0;
+}
+
+.container{
+    height: 400px;
+    width: 60%;
+    margin: 30px auto;
+    background-color: red;
+    
+}
